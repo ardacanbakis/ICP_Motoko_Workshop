@@ -30,7 +30,7 @@ This repository contains the projects completed during the Internet Computer Mot
 To run these projects, you'll need to have the DFINITY SDK installed. Follow these steps to set up your environment and run the projects:
 
 1. Install the DFINITY SDK:
-   sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
+   https://sdk.dfinity.org/install.sh
 
 2. Clone the repository:
    git clone https://github.com/ardacanbakis/ICP_Motoko_Workshop.git
