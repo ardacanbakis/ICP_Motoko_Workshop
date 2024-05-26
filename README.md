@@ -1,7 +1,7 @@
 
 # ICP_Motoko_Workshop
 
-This repository contains the projects completed during the ICP Motoko Workshop. Each project showcases different aspects of developing on the Internet Computer using the Motoko programming language.
+This repository contains the projects completed during the Internet Computer Motoko Project Building Workshop. Each project showcases different aspects of developing on the Internet Computer using the Motoko programming language.
 
 ## Projects
 
